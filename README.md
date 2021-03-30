@@ -1,6 +1,6 @@
 # AWS-SysOps
 
-The <a href=https://intellipaat.com/aws-sysops-certification-training/>AWS SysOps Certification</a> – Associate assessment is planned for frameworks overseers in a frameworks activities job with at any rate one year of involvement with arrangement, the executives, and procedure on AWS. 
+The <a href=https://intellipaat.com/aws-sysops-certification-training/>AWS SysOps Certification</a> is planned for frameworks overseers in a frameworks activities job with at any rate one year of involvement with arrangement, the executives, and procedure on AWS. 
 
 Capacities Validated by the Certification:
 
